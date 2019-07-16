@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#long {
+  height: 3000px;
+  background: rgb(197, 191, 191);
+  scroll-behavior: smooth;
+}
+
+#h1 {
+  position: fixed;
+  font-size: 40px;
+  z-index: 12;
+}
