@@ -2,8 +2,14 @@
   margin: 0;
   padding: 0;
 }
+
+#video{
+  position: fixed;
+  max-width: 50%;
+}
+
 #long {
-  height: 3000px;
+  height: 2000px;
   background: rgb(197, 191, 191);
   scroll-behavior: smooth;
 }
